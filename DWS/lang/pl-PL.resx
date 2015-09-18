@@ -139,7 +139,7 @@
     <value>Utwórz punkt przywracania systemu</value>
   </data>
   <data name="checkBoxDeleteWindows10Apps" xml:space="preserve">
-    <value>Usuń aplikacje metro Windows 10</value>
+    <value>Usuń aplikacje Metro Windows 10</value>
   </data>
   <data name="checkBoxDisablePrivateSettings" xml:space="preserve">
     <value>Wyłącz wysyłanie prywatnych danych</value>
@@ -243,6 +243,6 @@ Parametry linii poleceń:
 /lang= - określa język programu. Na przykład: /lang=pl
 /deleteapp= - pozwala ci usunąć wybraną aplikację Metro. Na przykład: /deleteapp=bing lub /deleteapp=note
 /destroy - pozwala ci usunąć elementy szpiegujące.
-Zwróć uwagę na to, że parametrów /destroy i /deleteapp= nie można używać jednocześnie, a parametr /deleteapp= może zostać użyty tylko raz dla danej aplikacji.</value>
+Zwróć uwagę na to, że parametrów /destroy i /deleteapp= nie można używać jednocześnie, a parametr /deleteapp= może zostać użyty tylko raz w jednym poleceniu.</value>
   </data>
 </root>
