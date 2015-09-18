@@ -224,7 +224,7 @@ Czy chcesz zrobić to teraz?</value>
     <value>Ostrzeżenia</value>
   </data>
   <data name="RemoveAllOldFirewallRules" xml:space="preserve">
-    <value>Usuń wszystkie stare reguły zapory DWS</value>
+    <value>Usuń stare reguły zapory od DWS</value>
   </data>
   <data name="ReportABug" xml:space="preserve">
     <value>Zgłoś błąd</value>
