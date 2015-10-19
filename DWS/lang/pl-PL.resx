@@ -246,6 +246,6 @@ Parametry linii poleceń:
 Zwróć uwagę na to, że parametrów /destroy i /deleteapp= nie można używać jednocześnie, a parametr /deleteapp= może zostać użyty tylko raz w jednym poleceniu.</value>
   </data>
   <data name="FindOffice16FileT" xml:space="preserve">
-    <value>Please specify the path to the file msosync.exe. If Office 2016 is installed as standard on the drive C, press "Cancel"</value>
+    <value>Określ ścieżkę do pliku msosync.exe. Jeśli Office 2016 jest zainstalowany w zwykły sposób na dysku C, kliknij przycisk "Anuluj"</value>
   </data>
 </root>
