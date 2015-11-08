@@ -248,4 +248,10 @@ Zwróć uwagę na to, że parametrów /destroy i /deleteapp= nie można używać
   <data name="FindOffice16FileT" xml:space="preserve">
     <value>Określ ścieżkę do pliku msosync.exe. Jeśli Office 2016 jest zainstalowany w zwykły sposób na dysku C, kliknij przycisk "Anuluj"</value>
   </data>
+    <data name="checkBoxDeleteGWX" xml:space="preserve">
+    <value>Usuń GWX</value>
+  </data>
+  <data name="checkBoxDeleteWindows78Updates" xml:space="preserve">
+    <value>Odinstaluj szpiegujące aktualizacje</value>
+  </data>
 </root>
